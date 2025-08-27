@@ -17,9 +17,9 @@
 ### 👨‍💻 About Me
 
 - 💼 Passionate about software engineering and building things that solve real problems  
-- 🌱 Always learning new technologies, currently exploring **[insert current tech here]**
+- 🌱 Always learning new technologies, currently exploring **Spring Boot**
 - 🧠 Interested in systems design, open-source, and full-stack development
-- 📫 Reach me at: [your.email@example.com] or via [LinkedIn](https://www.linkedin.com/in/your-link)
+<!-- - 📫 Reach me at: [your.email@example.com] or via [LinkedIn](https://www.linkedin.com/in/your-link) -->
 
 ---
 
